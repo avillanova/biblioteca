@@ -1,0 +1,7 @@
+setup.py
+biblioteca.egg-info/PKG-INFO
+biblioteca.egg-info/SOURCES.txt
+biblioteca.egg-info/dependency_links.txt
+biblioteca.egg-info/top_level.txt
+mypythonlib/__init__.py
+mypythonlib/myfunctions.py

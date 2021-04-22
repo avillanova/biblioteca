@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 setup(
-    name='mypythonlib',
-    version='0.1.1',
+    name='biblioteca',
+    version='0.0.1',
     description='My first Python library',
     author='Me',
     license='MIT',
