@@ -5,6 +5,5 @@ setup(
     description='My first Python library',
     author='Me',
     license='MIT',
-    packages=find_packages(include=['mypythonlib']),
-    package_dir={"biblioteca": "."}
+    packages=find_packages(include=['mypythonlib'])
 )
